@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 8a0e65f95366ca847a32c4f7aa16e8e3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: B2123
+    100002: B2124
+    100004: B2127
+    100006: B2571
+    100008: B2573
+    100010: B2574
+    100012: B3308
+    100014: B4157
+    100016: B4158
+    100018: B4158 1
+    100020: B4159
+    100022: B4159 1
+    100024: B4159 2
+    100026: B4160
+    100028: B4160 1
+    100030: B4160 2
+    100032: Base 1
+    100034: Cut-Extrude10
+    100036: Cut-Extrude10 1
+    100038: Cut-Extrude3
+    100040: Cut-Extrude3 1
+    100042: Cut-Extrude3 2
+    100044: Extrude1
+    100046: Fillet1
+    100048: Fillet3
+    100050: Fillet3_MeshPart0
+    100052: Fillet3_MeshPart1
+    100054: Fillet3_MeshPart2
+    100056: Hand
+    100058: Hand 1
+    100060: Imported002
+    100062: Imported003
+    100064: Imported003_MeshPart0
+    100066: Imported003_MeshPart1
+    100068: Imported004
+    100070: Imported005
+    100072: Imported005_MeshPart0
+    100074: Imported005_MeshPart1
+    100076: Imported1
+    100078: Imported1_MeshPart0
+    100080: Imported1_MeshPart1
+    100082: Joint1
+    100084: Joint1 1
+    100086: Joint2
+    100088: Joint2 1
+    100090: Joint3
+    100092: Joint3 1
+    100094: Joint4
+    100096: Joint4 1
+    100098: Mirror1
+    100100: Mirror1 1
+    100102: Mirror1 1_MeshPart0
+    100104: Mirror1 1_MeshPart1
+    100106: Mirror1 2
+    100108: Mirror1 2_MeshPart0
+    100110: Mirror1 2_MeshPart1
+    100112: Mirror1_MeshPart0
+    100114: Mirror1_MeshPart1
+    100116: //RootNode
+    100118: Revolve002
+    100120: Revolve1
+    100122: Revolve1_MeshPart0
+    100124: Revolve1_MeshPart1
+    100126: zeromark[2]
+    400000: B2123
+    400002: B2124
+    400004: B2127
+    400006: B2571
+    400008: B2573
+    400010: B2574
+    400012: B3308
+    400014: B4157
+    400016: B4158
+    400018: B4158 1
+    400020: B4159
+    400022: B4159 1
+    400024: B4159 2
+    400026: B4160
+    400028: B4160 1
+    400030: B4160 2
+    400032: Base 1
+    400034: Cut-Extrude10
+    400036: Cut-Extrude10 1
+    400038: Cut-Extrude3
+    400040: Cut-Extrude3 1
+    400042: Cut-Extrude3 2
+    400044: Extrude1
+    400046: Fillet1
+    400048: Fillet3
+    400050: Fillet3_MeshPart0
+    400052: Fillet3_MeshPart1
+    400054: Fillet3_MeshPart2
+    400056: Hand
+    400058: Hand 1
+    400060: Imported002
+    400062: Imported003
+    400064: Imported003_MeshPart0
+    400066: Imported003_MeshPart1
+    400068: Imported004
+    400070: Imported005
+    400072: Imported005_MeshPart0
+    400074: Imported005_MeshPart1
+    400076: Imported1
+    400078: Imported1_MeshPart0
+    400080: Imported1_MeshPart1
+    400082: Joint1
+    400084: Joint1 1
+    400086: Joint2
+    400088: Joint2 1
+    400090: Joint3
+    400092: Joint3 1
+    400094: Joint4
+    400096: Joint4 1
+    400098: Mirror1
+    400100: Mirror1 1
+    400102: Mirror1 1_MeshPart0
+    400104: Mirror1 1_MeshPart1
+    400106: Mirror1 2
+    400108: Mirror1 2_MeshPart0
+    400110: Mirror1 2_MeshPart1
+    400112: Mirror1_MeshPart0
+    400114: Mirror1_MeshPart1
+    400116: //RootNode
+    400118: Revolve002
+    400120: Revolve1
+    400122: Revolve1_MeshPart0
+    400124: Revolve1_MeshPart1
+    400126: zeromark[2]
+    2300000: Cut-Extrude10
+    2300002: Cut-Extrude10 1
+    2300004: Cut-Extrude3
+    2300006: Cut-Extrude3 1
+    2300008: Cut-Extrude3 2
+    2300010: Extrude1
+    2300012: Fillet1
+    2300014: Fillet3_MeshPart0
+    2300016: Fillet3_MeshPart1
+    2300018: Fillet3_MeshPart2
+    2300020: Imported002
+    2300022: Imported003_MeshPart0
+    2300024: Imported003_MeshPart1
+    2300026: Imported004
+    2300028: Imported005_MeshPart0
+    2300030: Imported005_MeshPart1
+    2300032: Imported1_MeshPart0
+    2300034: Imported1_MeshPart1
+    2300036: Mirror1 1_MeshPart0
+    2300038: Mirror1 1_MeshPart1
+    2300040: Mirror1 2_MeshPart0
+    2300042: Mirror1 2_MeshPart1
+    2300044: Mirror1_MeshPart0
+    2300046: Mirror1_MeshPart1
+    2300048: Revolve002
+    2300050: Revolve1_MeshPart0
+    2300052: Revolve1_MeshPart1
+    2300054: zeromark[2]
+    3300000: Cut-Extrude10
+    3300002: Cut-Extrude10 1
+    3300004: Cut-Extrude3
+    3300006: Cut-Extrude3 1
+    3300008: Cut-Extrude3 2
+    3300010: Extrude1
+    3300012: Fillet1
+    3300014: Fillet3_MeshPart0
+    3300016: Fillet3_MeshPart1
+    3300018: Fillet3_MeshPart2
+    3300020: Imported002
+    3300022: Imported003_MeshPart0
+    3300024: Imported003_MeshPart1
+    3300026: Imported004
+    3300028: Imported005_MeshPart0
+    3300030: Imported005_MeshPart1
+    3300032: Imported1_MeshPart0
+    3300034: Imported1_MeshPart1
+    3300036: Mirror1 1_MeshPart0
+    3300038: Mirror1 1_MeshPart1
+    3300040: Mirror1 2_MeshPart0
+    3300042: Mirror1 2_MeshPart1
+    3300044: Mirror1_MeshPart0
+    3300046: Mirror1_MeshPart1
+    3300048: Revolve002
+    3300050: Revolve1_MeshPart0
+    3300052: Revolve1_MeshPart1
+    3300054: zeromark[2]
+    4300000: Extrude1
+    4300002: Imported1_MeshPart0
+    4300004: Imported1_MeshPart1
+    4300006: Imported002
+    4300008: Imported003_MeshPart0
+    4300010: Imported003_MeshPart1
+    4300012: Imported004
+    4300014: Fillet1
+    4300016: zeromark[2]
+    4300018: Revolve1_MeshPart0
+    4300020: Revolve1_MeshPart1
+    4300022: Imported005_MeshPart0
+    4300024: Imported005_MeshPart1
+    4300026: Revolve002
+    4300028: Fillet3_MeshPart0
+    4300030: Fillet3_MeshPart1
+    4300032: Fillet3_MeshPart2
+    4300034: Cut-Extrude10
+    4300036: Cut-Extrude10
+    4300038: Cut-Extrude3
+    4300040: Cut-Extrude3
+    4300042: Cut-Extrude3
+    4300044: Mirror1_MeshPart0
+    4300046: Mirror1_MeshPart1
+    4300048: Mirror1_MeshPart0
+    4300050: Mirror1_MeshPart1
+    4300052: Mirror1_MeshPart0
+    4300054: Mirror1_MeshPart1
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 659b49eecc36af94f88bdd55666a981f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 0dbe6111b07197a4bbbc120f835fdf0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #28'
+    second: {fileID: 2100000, guid: 297ddac34d94f974b94d82f83f43a9a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 23945d124ee8b0149833b05a2edad3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 20828953dacc7f84189ae0c6957be402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 5fdd741f0063f784a87ac48066b576ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: 48c361dbd4762d54b8b82087835e0705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: 955f3169a64fc754aadea77afa39655b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: c5decbe5056eeca458f32fcbb175fea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #39'
+    second: {fileID: 2100000, guid: 58af83f81709e854b9d803e32ca67ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #40'
+    second: {fileID: 2100000, guid: 0f89bc391fa95cc4aa42ce3f4234824d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #41'
+    second: {fileID: 2100000, guid: 9f026393198f70645ad8dcfe3cd6ea6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #42'
+    second: {fileID: 2100000, guid: d37e64bac559d254a9c87439139d21b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #47'
+    second: {fileID: 2100000, guid: 2c2485ad49beff84a821504dcf3f4697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #48'
+    second: {fileID: 2100000, guid: 35a635f055bdb274db2050c5d86bba58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: 80eba7a658c4c0446971a133a042ab0f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
